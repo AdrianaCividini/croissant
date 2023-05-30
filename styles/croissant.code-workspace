@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "croissant",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "croissant"
+  }
+}
